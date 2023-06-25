@@ -1,0 +1,26 @@
+Student,Course,Attendance (%),Grade (%),ESL Student,Favorite Color,nbrSbling,SSN,Test Score (%)
+Student1,CourseV,99,61,1,Black,2,814959228,51.0
+Student2,CourseT,100,68,0,Black,2,957527528,97.0
+Student3,CourseZ,65,62,1,Green,2,140318093,
+Student4,CourseD,99,59,0,Red,1,723954703,86.0
+Student5,CourseM,69,52,0,Green,1,434536487,81.0
+Student6,CourseO,93,3,1,Red,0,818052607,
+Student7,CourseM,74,77,1,Black,0,570061936,72.0
+Student8,CourseH,80,40,1,Blue,2,147567433,76.0
+Student9,CourseM,86,63,0,Yellow,4,662448230,98.0
+Student10,CourseO,97,68,1,Green,3,565077800,87.0
+Student11,CourseW,89,18,0,Green,1,187408701,
+Student12,CourseI,100,86,0,Yellow,3,759170412,
+Student13,CourseH,70,4,1,Green,3,146984438,88.0
+Student14,CourseP,90,52,1,Black,2,647439202,82.0
+Student15,CourseV,62,96,0,Yellow,4,218754598,78.0
+Student16,CourseY,100,48,1,Blue,2,350598779,81.0
+Student17,CourseD,86,70,0,Blue,2,519233153,50.0
+Student18,CourseT,100,40,0,Black,0,673865609,80.0
+Student19,CourseH,92,98,1,Green,4,287379565,84.0
+Student20,CourseI,93,44,1,Blue,4,331315908,94.0
+Student21,CourseD,67,5,1,Green,1,162929838,57.0
+Student22,CourseY,65,23,1,Black,3,320157784,78.0
+Student23,CourseO,69,69,1,Green,0,340018268,
+Student24,CourseP,87,67,0,Red,4,841565978,78.0
+Student25,CourseK,97,11,0,Red,2,344093761,84.0
